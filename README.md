@@ -1,5 +1,3 @@
-## Jed Richards<br/>JavaScript Developer
-
 LinkedIn [www.linkedin.com/in/jedrichards](https://www.linkedin.com/in/jedrichards/)<br/>
 Stack Overflow [stackoverflow.com/users/1058314/jed-richards](https://stackoverflow.com/users/1058314/jed-richards)<br/>
 Contact `jedrichards at gmail dot com`
