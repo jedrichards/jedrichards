@@ -1,6 +1,5 @@
 ## Jed Richards<br/>JavaScript Developer
 
-Github [github.com/jedrichards](https://github.com/jedrichards)<br/>
 LinkedIn [www.linkedin.com/in/jedrichards](https://www.linkedin.com/in/jedrichards/)<br/>
 Stack Overflow [stackoverflow.com/users/1058314/jed-richards](https://stackoverflow.com/users/1058314/jed-richards)<br/>
 Contact `jedrichards at gmail dot com`
@@ -11,9 +10,9 @@ I specialise in application architecture, the JavaScript ecosystem, agile workin
 
 I've been working almost exclusively remotely since around 2013, and know how to be highly productive and drive projects forward as part of a distributed team.
 
-### Recent projects
+### Recent work
 
-#### Developer Platform Engineer at Sketch
+#### JavaScript Developer at Sketch
 
 _Q2 2019 to date_<br/>
 Working on Sketch's developer platform to improve the experience around 3rd party integrations, plugins and tooling. Sketch is an Apple Design Award winning digital design toolkit built to help you create your best work — from early ideas, through to final assets.
@@ -23,7 +22,7 @@ Working on Sketch's developer platform to improve the experience around 3rd part
 _Q4 2018 to Q2 2019_<br/>
 I joined [Wildfish](https://wildfish.com), a highly respected Python dev agency, as a frontend consultant to help them develop their first React-based app and level-up their team to take advantage of powerful frontend technologies that have recently emerged. As part of this effort Wildfish are developing an internal crypto currency product that enables users to share deep insights into the market by crafting complex queries on financial data. We're using Gatsby to deliver a fast static site that is able to operate as an PWA once running on a browser. A Python GraphQL API drives both the static build and the SPA at runtime.
 
-#### Freelance acting CTO at Rise
+#### CTO at Rise
 
 _Q2 to Q4 2018_<br/>
 As acting CTO I helped [Rise](https://www.rise.today), an upcoming wellness tech startup, develop their product vision and technical roadmap in preparation for securing a second round of investment in 2019. Using my professional network I helped Rise rapidly assemble a project team to specify and then develop an MVP product that included a proof-of-concept P2P video chat feature.
@@ -43,8 +42,6 @@ I helped [Make+Ship](https://www.makeandship.com/) and [Health Forge](https://he
 _Q3 2016 to Q2 2017_<br/>
 2PAx developed a system for algorithmically optimising restaurant table utilisation using knowledge the founder gained while working as operations director at well-known eateries like Wagamama, Hakkasan and Busaba Eathai. I came on board during a critical time in the product development cycle, and helped them architect a robust approach for client/server communication in their React and Redux-based restaurant kiosk app.
 
-> Project history going further back available on request
-
 ### Work history
 
 - _2008 to date_ Freelance web development and consulting
@@ -57,9 +54,3 @@ _Q3 2016 to Q2 2017_<br/>
 - _2007 to 2008_ UCL, Distinction in Certificate of Higher Education in Astronomy
 - _2003 to 2004_ City University, Distinction in MSc Electronic Publishing
 - _1999 to 2003_ Sheffield University, 2:1 in Japanese Studies
-
-### Open source
-
-- [grunt-rsync](https://github.com/jedrichards/grunt-rsync) A Grunt task for accessing the file copying and syncing capabilities of the rsync command line utility
-- [rsyncwrapper](https://github.com/jedrichards/rsyncwrapper) An async wrapper to the rsync command line utility for Node.js
-- Ongoing engagement with the community in various projects - see activity at [github.com/jedrichards](https://github.com/jedrichards)
